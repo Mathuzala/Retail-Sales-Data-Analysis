@@ -16,6 +16,10 @@ This project uses Python along with several data analysis and visualization libr
 * matplotlib: Used for creating static, animated, and interactive visualizations.
 * seaborn: Used for statistical data visualization based on matplotlib.
 
+#### Acknowledgements
+This dataset was obtained from Kaggle and used in this analysis. 
+Link: https://www.kaggle.com/datasets/manjeetsingh/retaildataset
+
 ### Files in the Repository
 
 There are three original files used for this project:
@@ -44,10 +48,6 @@ Historical sales data, which covers to 2010-02-05 to 2012-11-01. Within this fil
 
 #### Udacity - Retail Data Project.ipynb 
 * This is the Jupyter notebook that contains the code for the data analysis and visualization.
-
-#### Acknowledgements
-This dataset was obtained from Kaggle and used in this analysis. 
-Link: https://www.kaggle.com/datasets/manjeetsingh/retaildataset
 
 
 ### Results Summary
