@@ -16,6 +16,8 @@ This project uses Python along with several data analysis and visualization libr
 * matplotlib: Used for creating static, animated, and interactive visualizations.
 * seaborn: Used for statistical data visualization based on matplotlib.
 
+I've included a requirements.txt file for using the same libraries. 
+
 #### Acknowledgements
 This dataset was obtained from Kaggle and used in this analysis. 
 Link: https://www.kaggle.com/datasets/manjeetsingh/retaildataset
