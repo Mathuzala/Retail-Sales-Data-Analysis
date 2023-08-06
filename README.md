@@ -2,6 +2,8 @@
 
 ### Introduction
 
+** Please see the Jupyter Notebook for the code and analysis
+
 This project involves an in-depth analysis of a retail dataset that contains weekly sales data from various stores and departments over several years. The aim of the project is to uncover key insights that could help retailers make data-driven decisions to improve their performance and increase profits.
 
 
